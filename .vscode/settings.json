@@ -1,0 +1,9 @@
+{
+    "java.autobuild.enabled": true,
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.sourcePaths": [
+        "Basics"
+    ],
+    "java.project.referencedLibraries": [],
+    "java.project.outputPath": "Bin"
+}
